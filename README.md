@@ -8,7 +8,7 @@
 
 ## Interpreter 
   O interpreter como o nome já diz é um interpretador. Quando passamos algo pra ele, 
-  fica responsável por interpretar e processar os parâmetros usando objetos.
+  fica responsável por interpretar e processar os parâmetros usando objetos. 
 
 
 ## Problema
@@ -22,7 +22,7 @@ usar o interpreter para  entender o que estamos pedindo e processar as operaçõ
 
 
 ## Consequências
-O interpreter busca entender o que o codigo pede, e assim executar de forma com excelencia os paramentros.
+O interpreter busca entender o que o codigo pede, assim de vez criar im algoritimo pra isso, um interpretador pode solucionar rapidamente.
 
 
 Video de apresentação:  https://drive.google.com/file/d/1snIFj9alp9k1ZNNxYmNyzW4ieSbCiRCX/view?usp=sharing
